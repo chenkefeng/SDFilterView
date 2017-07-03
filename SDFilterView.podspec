@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/chenkefeng/SDFilterView"
   s.screenshots  = "SDFilterView.gif"
   
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
   s.author             = { "陈克锋" => "chenkefeng@kuaicto.com" }
 
