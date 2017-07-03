@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = "SDFilterViewDemo/SDFilterView/**/*.{h,m}"
 
-  s.public_header_files = "SDFilterViewDemo/SDFilterView/SDFilterViewManager.h"
+  s.public_header_files = "SDFilterViewDemo/SDFilterView/*.h"
 
 
   s.requires_arc = true
